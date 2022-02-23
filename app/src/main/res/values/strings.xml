@@ -1,4 +1,42 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Neemias</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, my name is Neemias, I love Magic.
+    \nAnd I do love Programming!
+    \nSo,
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ
+    \nJooJJooJJooJJooJJooJJooJ</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
 </resources>
